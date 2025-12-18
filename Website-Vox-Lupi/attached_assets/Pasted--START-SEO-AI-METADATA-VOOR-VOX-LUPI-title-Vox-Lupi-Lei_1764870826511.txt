@@ -1,0 +1,92 @@
+<!-- >>> START SEO & AI METADATA VOOR VOX LUPI <<< -->
+
+<title>Vox Lupi – Leiderschap, coaching, personal training & retreats in de natuur | Bergen op Zoom</title>
+
+<meta name="description" content="Vox Lupi begeleidt je terug naar je kern met leiderschap, coaching, personal training en retreats in de natuur. Met focus op rust, veiligheid, verbinding en fysieke én mentale transformatie in Bergen op Zoom.">
+
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Stephan">
+
+<!-- Canonical: hoofd-URL van je site -->
+<link rel="canonical" href="https://voxlupi.nl/">
+
+<!-- (Optioneel, maar prima): zoekwoorden -->
+<meta name="keywords" content="Vox Lupi, coaching, personal training, leiderschap, retreats, natuur, transformatie, broederschap, ademwerk, ijsbad, Bergen op Zoom">
+
+<!-- Open Graph voor social en AI samenvattingen -->
+<meta property="og:title" content="Vox Lupi – Ontketen je innerlijke kracht. Word de leider van je eigen leven.">
+<meta property="og:description" content="Coaching, personal training en retreats in de natuur. Leiderschap, veiligheid en verbinding als basis voor echte transformatie – fysiek, mentaal en emotioneel.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://voxlupi.nl/">
+<!-- Vervang deze URL door een echte hero/cover-afbeelding op je site -->
+<meta property="og:image" content="https://voxlupi.nl/path-naar-jouw-hero-afbeelding.jpg">
+
+<!-- Twitter / X card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Vox Lupi – Leiderschap, coaching & retreats in de natuur">
+<meta name="twitter:description" content="Een plek voor echte transformatie. Leiderschap, rust, persoonlijke kracht en broederschap in de natuur.">
+<meta name="twitter:image" content="https://voxlupi.nl/path-naar-jouw-hero-afbeelding.jpg">
+
+<!-- Structured data voor Google & AI (LocalBusiness + Person) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://voxlupi.nl/#vox-lupi",
+      "name": "Vox Lupi",
+      "url": "https://voxlupi.nl/",
+      "description": "Vox Lupi begeleidt mensen in leiderschap, persoonlijke ontwikkeling, fysieke en mentale transformatie via coaching, personal training en retreats in de natuur. Kernwoorden: leiderschap, veiligheid, verbinding, rust.",
+      "telephone": "+31 6 39840165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bergen op Zoom",
+        "addressCountry": "NL"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Bergen op Zoom en omgeving"
+      },
+      "sameAs": [
+        "https://www.instagram.com/stephandegraaff/"
+      ],
+      "knowsAbout": [
+        "persoonlijk leiderschap",
+        "persoonlijke ontwikkeling",
+        "coaching",
+        "personal training",
+        "ademwerk",
+        "ijsbad sessies",
+        "retreats in de natuur",
+        "broederschap",
+        "leefstijl transformatie",
+        "fysieke transformatie"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://voxlupi.nl/#stephan",
+      "name": "Stephan",
+      "jobTitle": "Coach, trainer en begeleider",
+      "description": "Stephan is man, vader en coach. Hij werkt met mensen aan bewustwording, discipline, embodiment en zelfleiderschap. Zijn begeleiding gaat door schaduwwerk, oude patronen en fysieke en mentale uitdagingen heen.",
+      "worksFor": {
+        "@id": "https://voxlupi.nl/#vox-lupi"
+      },
+      "knowsAbout": [
+        "persoonlijk leiderschap",
+        "bewustwording",
+        "embodiment",
+        "krachttraining",
+        "leefstijlverandering",
+        "ademwerk",
+        "ijsbad",
+        "coaching in de natuur"
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- >>> EINDE SEO & AI METADATA VOOR VOX LUPI <<< -->
